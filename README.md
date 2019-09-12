@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To run:
 ### `git clone`
+### `cd lonely-chat`
 ### `npm i`
 ### `npm start`
 
